@@ -1,0 +1,7 @@
+File per la documentazione
+
+TODO list
+
+- Capire effettivamente che progetto fare :)
+- Rinominare nome progetto su GH (il prof non lo vuole troppo generico ma deve essere riconducibile
+- Boh, vedremo al momento
