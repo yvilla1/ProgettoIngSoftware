@@ -1,6 +1,6 @@
 File per la documentazione
 
-TODO list
+TODO list:
 
 - Capire effettivamente che progetto fare :)
 - Rinominare nome progetto su GH (il prof non lo vuole troppo generico ma deve essere riconducibile)
