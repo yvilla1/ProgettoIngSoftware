@@ -1,0 +1,7 @@
+Alcune idee per il topic del progetto, basate sugli esempi della Libreria e dell'Università.
+Conviene fare un programma che simuli interazioni tra Cliente, Dipendenti e Oggetti quindi:
+- attività commerciali (negozio di riparazione di X, negozio di vendita di Y, strutture che offrono servizi )
+- pronto soccorso, dove avremmo a grandi linee persona che arriva -> registrazione + assegnazione codice -> attesa e assegnazione dottore/prestazione/ in ambulatorio X
+- gestione hotel, a grandi linee persona prenota una stanza -> controllare disponibilità e requisiti -> check identità utente e assegnazione stanza
+- prenotazione di posti su aereo/treno, un po' diverso dagli altri perchè è più l'utente che interagisce principalmente con un sistema più che con un dipendente
+- altre idee 
